@@ -3,7 +3,7 @@
 ![ProjectView](https://i.imgur.com/bMbwhTQ.png)
 
 This project uses a Java 8 version of [FXyz](https://github.com/FXyz/FXyz) that I modified, a library that adds onto the existing components of JavaFX
-This project also uses [FastNoise by Auburn](https://github.com/Auburn/FastNoise_Java) to generate the terrain.
+This project also uses [FastNoise by Auburn}(https://github.com/Auburn/FastNoise_Java) to generate the terrain.
 
 The project is 90% done, I just need to add the ability to save & load the terrain that this project creates.
 
